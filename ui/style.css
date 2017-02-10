@@ -1,7 +1,7 @@
 body {
     font-family: sans-serif;
     background-color: lightgrey;
-    margin-top: 0px;
+    margin-top: 0;
 }
 
 .center {
@@ -23,6 +23,7 @@ body {
 
 .demo-layout-transparent {
   background: url('https://getmdl.io/assets/demos/transparent.jpg') center / cover;
+  
 }
 .demo-layout-transparent .mdl-layout__header,
 .demo-layout-transparent .mdl-layout__drawer-button {
