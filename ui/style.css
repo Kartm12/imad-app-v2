@@ -22,7 +22,7 @@ body {
 
 
 .demo-layout-transparent {
-  background: url('https://getmdl.io/assets/demos/transparent.jpg') cover;
+  background: url('https://getmdl.io/assets/demos/transparent.jpg') center / cover;
   top:1px;
   
 }
