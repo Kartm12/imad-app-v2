@@ -2,6 +2,9 @@ console.log('Loaded!');
 
 
 
+
+//move the image
+
 var img=document.getElementById('madi');
 var marginLeft=0;
 
