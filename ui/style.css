@@ -1,10 +1,13 @@
 
 
 
-#center-text{
+#center-text,
+
+.h2{
     
     font-size: 50px;
     position:relative;
     left:80px;
     top:90px;
 }
+
