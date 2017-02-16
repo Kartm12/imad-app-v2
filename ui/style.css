@@ -4,5 +4,7 @@
 #center-text{
     
     font-size: 30px;
-    left:30px;
+    position:relative;
+    left:80px;
+    top:90px;
 }
