@@ -541,3 +541,7 @@ a img{
   }
 }
 
+.mdl-layout__header {
+
+    background-color: #808080;
+    color: #fff;}
